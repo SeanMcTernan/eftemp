@@ -2,5 +2,5 @@
 # and the folder to publish
 
 [[edge_functions]]
-function = "hello"
+function = "hellos"
 path = "/*"
