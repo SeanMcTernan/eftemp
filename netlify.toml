@@ -1,0 +1,6 @@
+# explicit commands for building the site
+# and the folder to publish
+
+[[edge_functions]]
+function = "hello"
+path = "/*"
